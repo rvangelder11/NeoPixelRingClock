@@ -9,5 +9,5 @@
 - It is mounted in a Ribba list of IKEA
 - Color scheme is changed with showing rainbow colors at every full hour
 - Some minor changes in the color scheme to make it better readable
-- 
+  
 ![IMG_0100](https://github.com/rvangelder11/NeoPixelRingClock/assets/90907092/e4746986-1fc8-41f2-8d1d-12b21e6f40dc)
